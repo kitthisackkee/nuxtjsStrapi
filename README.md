@@ -1,0 +1,2 @@
+# nuxtjsStrapi
+FullStack
